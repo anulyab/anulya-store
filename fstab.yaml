@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/anulyab/anulya-store/
+    type: markup
+
+folders:
+  /products/: /products/default
